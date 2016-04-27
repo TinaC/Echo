@@ -7,6 +7,9 @@
         "files": {}
     },
     "installed_plugins": {
+        "com.appgyver.plugin.Echo": {
+            "PACKAGE_NAME": "io.cordova.hellocordova"
+        },
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
         }
